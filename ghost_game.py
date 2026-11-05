@@ -2,8 +2,8 @@ import sys
 
 import pygame
 
-from settings import Settings
 from ghost import Ghost
+from settings import Settings
 
 
 class GhostGame:
